@@ -31,11 +31,11 @@ I am a Full Stack Developer with a unique background in Civil Engineering. I lev
 
 ### 🚀 Featured Projects
 
-**1. Veterinary Management System API** (Private Repository)
+**1. Veterinary Management System API**
 A comprehensive REST API for managing a veterinary clinic's operations with layered architecture.
 - Tech: Java 21, Spring Boot 3, Spring Security, PostgreSQL, Swagger.
 
-**2. Library Management System API** [➡️ GitHub Link](https://github.com/BurakBozkurt-Ybb)
+**2. Library Management System API**
 A RESTful API to manage library inventory with custom exception handling and Spring Data JPA.
 - Tech: Java, Spring Boot, Spring Data JPA, PostgreSQL.
 
